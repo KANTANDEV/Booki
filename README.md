@@ -92,4 +92,4 @@ Voici les maquettes à intégrer :
 <img width="432" alt="maquette projet booki" src="https://user-images.githubusercontent.com/94462048/159339791-f3ff90f5-5802-4533-ae89-1f7d804781f3.png">
 <img width="375" alt="iPhone 8 - 1" src="https://user-images.githubusercontent.com/94462048/159343366-0a027b64-b2de-445d-b0e8-0e039a9132d7.png">
 
-
+lien du site : https://kantandev.github.io/Booki/
