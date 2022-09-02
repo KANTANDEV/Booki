@@ -1,6 +1,7 @@
 # Booki
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
+
 <h2> Scénario </h2>
 
 Vous avez trouvé votre premier stage en tant que développeur web chez Booki, une petite entreprise proposant un outil de planification de vacances !
@@ -13,7 +14,8 @@ compte pour le développement du nouveau site Booki. L’ensemble de ces
 éléments ont été validés par l’équipe Produit, il est donc important de les
 respecter.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
+
 <h3>Spécifications fonctionnelles</h3>
 
 ● Les usagers pourront rechercher des hébergements dans la ville de
@@ -35,7 +37,7 @@ dessus. Par contre, ils ne doivent pas être fonctionnels.
 des liens. Ils doivent mener respectivement vers la section
 “Hébergements à Marseille” et “Activités à Marseille”.
 Spécifications techniques
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <h3>Spécifications techniques</h3>
 
 ● Deux maquettes ont été réalisées : l’une desktop et l’autre mobile. Le
@@ -86,7 +88,9 @@ Google Chrome et de Mozilla Firefox. Il faudra tester le prototype sur
 ces deux navigateurs.
 
 ● Il n’est pas nécessaire de versionner le code.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
 Voici les maquettes à intégrer :
 
 <img width="432" alt="maquette projet booki" src="https://user-images.githubusercontent.com/94462048/159339791-f3ff90f5-5802-4533-ae89-1f7d804781f3.png">
